@@ -1,4 +1,7 @@
-### Hi there, my name is Swoerve 👋
+### Hi there, mitt namne är Swoerve 👋
+
+
+Jag är också cool
 
 [![An image of @swoerve's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swoerve)](https://holopin.io/@swoerve)
 
