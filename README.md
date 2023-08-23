@@ -1,7 +1,6 @@
 ### Hi there, mitt namn är Swoerve 👋
 
 test
-poopoo
 
 Jag är också cool
 
