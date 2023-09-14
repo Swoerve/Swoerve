@@ -5,10 +5,11 @@
 <details>
   <summary>Statsc</summary>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="#">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-  </a>
+  <a href="#">![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve&theme=gruvbox&count_private=true&hide_border=true&line_height=20)<a>
+  
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoerve&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+
 </details>
 
 <!--
