@@ -3,8 +3,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,git,github,linux,md,regex,vscode)](https://skillicons.dev)
 [![An image of @swoerve's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swoerve)](https://holopin.io/@swoerve)
 <details>
-  <summary>Epiiic</summary>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve)]
+  <summary>Statsc</summary>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve)
 </details>
 
 <!--
