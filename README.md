@@ -1,9 +1,6 @@
-### Hi there, mitt namn är Swoerve 👋
+### Hi there, my name is Swoerve 👋
 
-test
-
-Jag är också cool
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,git,github,linux,md,regex,vscode)](https://skillicons.dev)
 [![An image of @swoerve's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swoerve)](https://holopin.io/@swoerve)
 
 <!--
