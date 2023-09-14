@@ -4,7 +4,7 @@
 [![An image of @swoerve's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swoerve)](https://holopin.io/@swoerve)
 <details>
   <summary>Epiiic</summary>
-  ![Swoerve's GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve)
 </details>
 
 <!--
