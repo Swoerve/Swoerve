@@ -4,7 +4,8 @@
 [![An image of @swoerve's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swoerve)](https://holopin.io/@swoerve)
 <details>
   <summary>Statsc</summary>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="#">[![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)</a>
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
