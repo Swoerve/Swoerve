@@ -6,7 +6,6 @@
   <summary>Statsc</summary>
   
   <a href="#">![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve&theme=gruvbox&count_private=true&hide_border=true&line_height=20)<a>
-  
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoerve&layout=compact&theme=gruvbox&count_private=true&hide_border=true)</a>
 
 
