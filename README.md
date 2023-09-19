@@ -2,13 +2,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,git,github,linux,md,regex,vscode)](https://skillicons.dev)
 [![An image of @swoerve's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swoerve)](https://holopin.io/@swoerve)
+
 <details>
-  <summary>Statsc</summary>
+  <summary>Github Stats ⚡</summary>
   
-  <a href="#">![GitHub stats](https://github-readme-stats.vercel.app/api?username=swoerve&theme=gruvbox&count_private=true&hide_border=true&line_height=20)<a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoerve&layout=compact&theme=gruvbox&count_private=true&hide_border=true)</a>
-
-
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=swoerve&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoerve&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 <!--
