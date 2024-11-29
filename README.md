@@ -18,6 +18,10 @@ I'm an aspiring full-stack developer working my way through incomprehensible doc
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 
+<br />
+<br />
+<br />
+
 #
 
 ![Swoerve's Github Stats](https://github-readme-stats.vercel.app/api?username=Swoerve&show_icons=true&theme=gruvbox)
