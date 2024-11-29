@@ -6,7 +6,7 @@ I'm an aspiring full-stack developer working my way through incomprehensible doc
 
 ### Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img width="1rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
 <!--
 **Swoerve/Swoerve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
